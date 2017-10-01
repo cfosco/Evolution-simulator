@@ -1,0 +1,12 @@
+/*
+ * Decompiled with CFR 0_122.
+ */
+package org.lwjgl.opengl;
+
+public final class ARBHalfFloatVertex {
+    public static final int GL_HALF_FLOAT = 5131;
+
+    private ARBHalfFloatVertex() {
+    }
+}
+

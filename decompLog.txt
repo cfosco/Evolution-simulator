@@ -1,0 +1,106 @@
+Summary for /www/javadecompilers/app/public/data/01.10.17/2cb080f8af633ca8c411e961d39af4df/SimuladorDeEvolucion.jar
+Decompiled with CFR 0_122
+
+
+org.lwjgl.opengl.LinuxCanvasImplementation
+----------------------------
+
+findVisualIDFromFormat(int org.lwjgl.opengl.PixelFormat )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[TRYBLOCK]], but top level block is 3[TRYBLOCK]
+
+
+org.lwjgl.opengl.LinuxDisplay
+----------------------------
+
+getGammaRampLength()
+  Loose catch block
+
+
+org.lwjgl.util.mapped.MappedObjectClassLoader
+----------------------------
+
+readStream(java.io.InputStream )
+  Loose catch block
+
+
+org.lwjgl.util.mapped.MappedObjectTransformer
+----------------------------
+
+transformArrayAccess(org.objectweb.asm.tree.InsnList int java.util.Map<org.objectweb.asm.tree.AbstractInsnNode, org.objectweb.asm.tree.analysis.Frame<org.objectweb.asm.tree.analysis.BasicValue>> org.objectweb.asm.tree.VarInsnNode org.lwjgl.util.mapped.MappedObjectTransformer$MappedSubtypeInfo int )
+  Unable to fully structure code
+
+
+net.java.games.input.RawKeyboard
+----------------------------
+
+getNextDeviceEvent(net.java.games.input.Event )
+  Unable to fully structure code
+
+
+com.jcraft.jorbis.Drft
+----------------------------
+
+drfti1(int float[] int int[] )
+  Unable to fully structure code
+dradfg(int int int int float[] float[] float[] float[] float[] float[] int )
+  Unable to fully structure code
+dradbg(int int int int float[] float[] float[] float[] float[] float[] int )
+  Unable to fully structure code
+
+
+javazoom.jl.decoder.Bitstream
+----------------------------
+
+loadID3v2(java.io.InputStream )
+  Unable to fully structure code
+
+
+com.badlogic.gdx.graphics.g3d.loader.ObjLoader
+----------------------------
+
+loadModelData(com.badlogic.gdx.files.FileHandle boolean )
+  Unable to fully structure code
+
+
+com.badlogic.gdx.maps.tiled.AtlasTmxMapLoader
+----------------------------
+
+loadTileset(com.badlogic.gdx.maps.tiled.TiledMap com.badlogic.gdx.utils.XmlReader$Element com.badlogic.gdx.files.FileHandle com.badlogic.gdx.maps.tiled.AtlasTmxMapLoader$AtlasResolver )
+  Unable to fully structure code
+
+
+com.badlogic.gdx.maps.tiled.TmxMapLoader
+----------------------------
+
+loadTileSet(com.badlogic.gdx.maps.tiled.TiledMap com.badlogic.gdx.utils.XmlReader$Element com.badlogic.gdx.files.FileHandle com.badlogic.gdx.maps.ImageResolver )
+  Unable to fully structure code
+
+
+com.badlogic.gdx.scenes.scene2d.ui.TextField
+----------------------------
+
+keyDown(com.badlogic.gdx.scenes.scene2d.InputEvent int )
+  Unable to fully structure code
+
+
+com.badlogic.gdx.utils.compression.lzma.Encoder
+----------------------------
+
+GetOptimum(int )
+  Unable to fully structure code
+CodeOneBlock(long[] long[] boolean[] )
+  Unable to fully structure code
+
+
+com.badlogic.gdx.utils.JsonReader
+----------------------------
+
+parse(char[] int int )
+  Unable to fully structure code
+
+
+com.badlogic.gdx.utils.XmlReader
+----------------------------
+
+parse(char[] int int )
+  Unable to fully structure code
